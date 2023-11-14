@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: url('background.jpg') center/cover no-repeat; /* Add your background image URL */
+            color: #fff;
+            margin: 20px;
+            text-align: center;
+            line-height: 1.6;
+        }
+
+        big {
+            font-size: 24px;
+            color: #0066cc;
+        }
+
+        small {
+            font-size: 18px;
+            color: #ddd;
+        }
+
+        p {
+            font-size: 16px;
+            margin: 10px 0;
+        }
+
+        b, i {
+            color: #0066cc;
+        }
+
+        hr {
+            border: 1px solid #0066cc;
+            margin: 20px 0;
+        }
+
+        a {
+            text-decoration: none;
+            color: #0066cc;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .assignment-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin-bottom: 20px;
+        }
+
+        .contact-info {
+            background-color: #0066cc;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <big><i>MY NAME IS ASHUTOSH</i></big>
+    <small>I am a first year B.tech student</small>
+    <p>Want to access my assignments?</p>
+    <p><b>I GOT YOU</b></p>
+    <p>Here are some links, hope it helps you</p>
+    <hr>
+    <p><b><i>First, let's go with Foundation Skills in Sensor Interfacing</i></b></p>
+    <div class="assignment-links">
+        <a href="https://docs.google.com/document/d/1E0bKEoWABDfeKLRiFdagEMlPaqokcici/edit">Activity 1</a>
+        <a href="https://docs.google.com/document/d/1iDir8s_3Hkk-y8nuPC28A8dvZFnBJ3A3/edit">Activity 2</a>
+        <a href="https://docs.google.com/document/d/1pWEzrqKizSRXZNiG2ER3TuY5U0K6RaQn/edit">Activity 3</a>
+        <a href="https://docs.google.com/document/d/1lfky_nT4wb8QEQMdc_fOs_bogDiGvpBi/edit">Activity 4</a>
+        <a href="https://docs.google.com/document/d/1PUvwt7zLlT4zoYF9I2a9nfswxP0ok0zE/edit">Activity 5</a>
+        <a href="https://docs.google.com/document/d/1f3Cg0VchVql4rq2zam1G-NoN56swXZSP/edit">Experiment 1</a>
+    </div>
+    <hr>
+    <p><b><i>Now let's go with Basis of Electronic Engineering</i></b></p>
+    <div class="assignment-links">
+        <a href="https://drive.google.com/file/d/1Tr0EtdJAfGB2624hzWnbi-2QF19Bh0Aq/view">Part 1</a>
+        <a href="https://drive.google.com/file/d/1vW483uJbydi2FAfk27WM7ua_7N533jud/view">Part 2</a>
+        <a href="https://drive.google.com/file/d/1LXOEAycK6lmMnmCHiJGZrl8D-uJYGSuh/view">Assignment 3</a>
+        <a href="https://drive.google.com/file/d/1OuiEKKCa2AWPgNCBbI2eUvtdj9pgtL9z/view">Assignment 4</a>
+        <a href="https://drive.google.com/file/d/13nBgM5U_RNAtNmHLXq-wkOhV3f5VYZI3/view">Assignment 5</a>
+        <a href="https://docs.google.com/document/d/13GPmgFnhA_3JxH9kilhUSlf8QvwNX_AY/edit">Assignment 6</a>
+        <a href="https://docs.google.com/document/d/1cg4n4GSptHH3oSFwKyEGtlSF18l8zBL7/edit">Assignment 7</a>
+        <a href="https://docs.google.com/document/d/16T9HiMOLfNxRIHAfu6B1IAmkASC9xjA-/edit">Assignment 8</a>
+        <a href="https://drive.google.com/file/d/1iR9O4y2m_jcYrX3TQrv1niX4YRPVz3Uc/view">Assignment 18</a>
+        <a href="https://drive.google.com/file/d/1Swx8YJzquZNbERFn16SkXTDQnZA9fVA3/view">Assignment 19</a>
+        <a href="https://drive.google.com/file/d/1RgFI2W8zTAqA7c6JFOOU7MAw1WSBAdg5/view">Assignment 20</a>
+        <a href="https://drive.google.com/file/d/1ZmeMNIfd3A9d85k-ljNGET4ShUmpZDtY/view">Assignment 21</a>
+    </div>
+    <hr>
+    <p><b><i>Now let's go with Introduction to Computer Programming</i></b></p>
+    <div class="assignment-links">
+        <a href="https://drive.google.com/file/d/1KPyr_Gr4v4TNUoCVS0eoIn0NMql4O-9m/view">Assignment 1</a>
+        
+    </div>
+    <hr>
+    <p>THANK YOU FOR YOU SUPPORT, I WILL UPLOAD MORE AS THE REQUIREMENT</p>
+    <p class="contact-info">YOU MAY CONTACT ME ON ashutoshhjp1067@gmail.com for more details</p>
+    <script>
+    </script>
+</body>
+</html>
